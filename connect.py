@@ -1,9 +1,3 @@
-"""
-PEP8 - import
-Например - os - это стандартная библеотека, поэтому ее правильно поместить в начало.
-Пути лучше через os.path.join или pathlib - отдельная библиотека
-почить про sql injection
-"""
 import os
 import json
 import pandas as pd
